@@ -25,9 +25,8 @@ Também uso: SQLAlchemy · Alembic · Pandas · Prophet · Pytest · React Nativ
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| [**Biogás PB**](https://github.com/viniciushbatista/app-mobile-data-visualization) | App mobile e API que calculam e projetam o potencial energético de biogás de rebanhos da Paraíba | FastAPI · PostgreSQL · Prophet · React Native · Docker |
+| [**Biosensus**](https://github.com/viniciushbatista/app-mobile-data-visualization) | App mobile e API que calculam e projetam o potencial energético de biogás de rebanhos da Paraíba | FastAPI · PostgreSQL · Prophet · React Native · Docker |
 | [**Chat P2P**](https://github.com/viniciushbatista/chat-p2p) | Chat peer-to-peer com salas, criptografia ponta a ponta, UDP hole punching e interface gráfica | Python · Sockets · cryptography · Tkinter |
-| [**Web Scraping com AFD**](https://github.com/viniciushbatista/regular-expression-web-scraping) | Scraper da Wikipédia que valida links com um autômato finito construído à mão | Python · Linguagens formais |
 | [**Simulador Mic-1**](https://github.com/viniciushbatista/projeto-mic1) | Simulação em software da microarquitetura Mic-1: ULA, registradores, barramentos e instruções IJVM | Python · Arquitetura de computadores |
 | [**CRUD Spring**](https://github.com/viniciushbatista/spring-crud-java) | API REST de usuários e pedidos com JPA e banco H2 | Java 21 · Spring Boot |
 
